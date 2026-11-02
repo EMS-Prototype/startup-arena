@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T12:56:02.518Z",
+  "generatedAt": "2026-11-02T22:55:46.899Z",
   "boardsTried": 46,
   "boardsOk": 31,
   "report": [
@@ -122,8 +122,8 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 289,
-      "matched": 106
+      "totalOpenRoles": 287,
+      "matched": 111
     },
     {
       "company": "Healthians",
@@ -160,8 +160,8 @@
       "ats": "workable",
       "slug": "innovaccer-analytics",
       "status": "ok",
-      "totalOpenRoles": 91,
-      "matched": 52
+      "totalOpenRoles": 93,
+      "matched": 53
     },
     {
       "company": "Ixigo",
@@ -190,7 +190,7 @@
       "ats": "lever",
       "slug": "meesho",
       "status": "ok",
-      "totalOpenRoles": 50,
+      "totalOpenRoles": 51,
       "matched": 2
     },
     {
@@ -229,7 +229,7 @@
       "ats": "greenhouse",
       "slug": "observeai",
       "status": "ok",
-      "totalOpenRoles": 8,
+      "totalOpenRoles": 10,
       "matched": 0
     },
     {
@@ -259,7 +259,7 @@
       "ats": "greenhouse",
       "slug": "razorpaysoftwareprivatelimited",
       "status": "ok",
-      "totalOpenRoles": 27,
+      "totalOpenRoles": 28,
       "matched": 0
     },
     {
@@ -353,7 +353,7 @@
       "ats": "greenhouse",
       "slug": "zscaler",
       "status": "ok",
-      "totalOpenRoles": 362,
+      "totalOpenRoles": 358,
       "matched": 0
     }
   ]
