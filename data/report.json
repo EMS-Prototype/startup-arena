@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T12:28:10.390Z",
+  "generatedAt": "2026-11-03T20:41:56.752Z",
   "boardsTried": 46,
   "boardsOk": 31,
   "report": [
@@ -16,7 +16,7 @@
       "ats": "ashby",
       "slug": "atlan",
       "status": "ok",
-      "totalOpenRoles": 7,
+      "totalOpenRoles": 6,
       "matched": 0
     },
     {
@@ -85,7 +85,7 @@
       "ats": "smartrecruiters",
       "slug": "freshworks",
       "status": "ok",
-      "totalOpenRoles": 123,
+      "totalOpenRoles": 121,
       "matched": 0
     },
     {
@@ -122,7 +122,7 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 281,
+      "totalOpenRoles": 280,
       "matched": 108
     },
     {
@@ -229,7 +229,7 @@
       "ats": "greenhouse",
       "slug": "observeai",
       "status": "ok",
-      "totalOpenRoles": 9,
+      "totalOpenRoles": 10,
       "matched": 0
     },
     {
@@ -259,7 +259,7 @@
       "ats": "greenhouse",
       "slug": "razorpaysoftwareprivatelimited",
       "status": "ok",
-      "totalOpenRoles": 27,
+      "totalOpenRoles": 26,
       "matched": 0
     },
     {
@@ -306,7 +306,7 @@
       "ats": "smartrecruiters",
       "slug": "swiggy",
       "status": "ok",
-      "totalOpenRoles": 181,
+      "totalOpenRoles": 188,
       "matched": 5
     },
     {
@@ -353,7 +353,7 @@
       "ats": "greenhouse",
       "slug": "zscaler",
       "status": "ok",
-      "totalOpenRoles": 362,
+      "totalOpenRoles": 365,
       "matched": 0
     }
   ]
