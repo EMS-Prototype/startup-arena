@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T12:50:16.865Z",
+  "generatedAt": "2026-11-05T21:15:58.237Z",
   "boardsTried": 46,
   "boardsOk": 31,
   "report": [
@@ -8,8 +8,8 @@
       "ats": "workday",
       "slug": "adobe",
       "status": "ok",
-      "totalOpenRoles": 20,
-      "matched": 20
+      "totalOpenRoles": 21,
+      "matched": 21
     },
     {
       "company": "Atlan",
@@ -85,7 +85,7 @@
       "ats": "smartrecruiters",
       "slug": "freshworks",
       "status": "ok",
-      "totalOpenRoles": 125,
+      "totalOpenRoles": 123,
       "matched": 0
     },
     {
@@ -122,7 +122,7 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 283,
+      "totalOpenRoles": 276,
       "matched": 104
     },
     {
@@ -345,7 +345,7 @@
       "ats": "lever",
       "slug": "zeta",
       "status": "ok",
-      "totalOpenRoles": 29,
+      "totalOpenRoles": 28,
       "matched": 0
     },
     {
@@ -353,7 +353,7 @@
       "ats": "greenhouse",
       "slug": "zscaler",
       "status": "ok",
-      "totalOpenRoles": 371,
+      "totalOpenRoles": 376,
       "matched": 0
     }
   ]
