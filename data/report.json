@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T03:59:03.425Z",
+  "generatedAt": "2026-11-05T12:50:16.865Z",
   "boardsTried": 46,
   "boardsOk": 31,
   "report": [
@@ -85,7 +85,7 @@
       "ats": "smartrecruiters",
       "slug": "freshworks",
       "status": "ok",
-      "totalOpenRoles": 123,
+      "totalOpenRoles": 125,
       "matched": 0
     },
     {
@@ -122,7 +122,7 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 273,
+      "totalOpenRoles": 283,
       "matched": 104
     },
     {
@@ -160,8 +160,8 @@
       "ats": "workable",
       "slug": "innovaccer-analytics",
       "status": "ok",
-      "totalOpenRoles": 94,
-      "matched": 53
+      "totalOpenRoles": 95,
+      "matched": 54
     },
     {
       "company": "Ixigo",
@@ -190,7 +190,7 @@
       "ats": "lever",
       "slug": "meesho",
       "status": "ok",
-      "totalOpenRoles": 54,
+      "totalOpenRoles": 55,
       "matched": 2
     },
     {
@@ -198,7 +198,7 @@
       "ats": "lever",
       "slug": "mindtickle",
       "status": "ok",
-      "totalOpenRoles": 20,
+      "totalOpenRoles": 21,
       "matched": 0
     },
     {
@@ -229,7 +229,7 @@
       "ats": "greenhouse",
       "slug": "observeai",
       "status": "ok",
-      "totalOpenRoles": 11,
+      "totalOpenRoles": 12,
       "matched": 0
     },
     {
@@ -283,7 +283,7 @@
       "ats": "greenhouse",
       "slug": "slice",
       "status": "ok",
-      "totalOpenRoles": 22,
+      "totalOpenRoles": 23,
       "matched": 0
     },
     {
@@ -306,7 +306,7 @@
       "ats": "smartrecruiters",
       "slug": "swiggy",
       "status": "ok",
-      "totalOpenRoles": 195,
+      "totalOpenRoles": 194,
       "matched": 5
     },
     {
@@ -345,7 +345,7 @@
       "ats": "lever",
       "slug": "zeta",
       "status": "ok",
-      "totalOpenRoles": 31,
+      "totalOpenRoles": 29,
       "matched": 0
     },
     {
@@ -353,7 +353,7 @@
       "ats": "greenhouse",
       "slug": "zscaler",
       "status": "ok",
-      "totalOpenRoles": 372,
+      "totalOpenRoles": 371,
       "matched": 0
     }
   ]
