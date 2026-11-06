@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T03:57:09.961Z",
+  "generatedAt": "2026-11-06T12:34:02.275Z",
   "boardsTried": 46,
   "boardsOk": 31,
   "report": [
@@ -8,8 +8,8 @@
       "ats": "workday",
       "slug": "adobe",
       "status": "ok",
-      "totalOpenRoles": 21,
-      "matched": 21
+      "totalOpenRoles": 20,
+      "matched": 20
     },
     {
       "company": "Atlan",
@@ -77,8 +77,8 @@
       "ats": "workday",
       "slug": "fractal",
       "status": "ok",
-      "totalOpenRoles": 20,
-      "matched": 15
+      "totalOpenRoles": 21,
+      "matched": 16
     },
     {
       "company": "Freshworks",
@@ -123,7 +123,7 @@
       "slug": "hcltech",
       "status": "ok",
       "totalOpenRoles": 287,
-      "matched": 105
+      "matched": 103
     },
     {
       "company": "Healthians",
@@ -190,7 +190,7 @@
       "ats": "lever",
       "slug": "meesho",
       "status": "ok",
-      "totalOpenRoles": 55,
+      "totalOpenRoles": 53,
       "matched": 2
     },
     {
@@ -259,7 +259,7 @@
       "ats": "greenhouse",
       "slug": "razorpaysoftwareprivatelimited",
       "status": "ok",
-      "totalOpenRoles": 26,
+      "totalOpenRoles": 22,
       "matched": 0
     },
     {
@@ -306,7 +306,7 @@
       "ats": "smartrecruiters",
       "slug": "swiggy",
       "status": "ok",
-      "totalOpenRoles": 194,
+      "totalOpenRoles": 191,
       "matched": 5
     },
     {
@@ -353,7 +353,7 @@
       "ats": "greenhouse",
       "slug": "zscaler",
       "status": "ok",
-      "totalOpenRoles": 377,
+      "totalOpenRoles": 376,
       "matched": 0
     }
   ]
