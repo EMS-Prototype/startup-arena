@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T21:15:58.237Z",
+  "generatedAt": "2026-11-06T03:57:09.961Z",
   "boardsTried": 46,
   "boardsOk": 31,
   "report": [
@@ -122,8 +122,8 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 276,
-      "matched": 104
+      "totalOpenRoles": 287,
+      "matched": 105
     },
     {
       "company": "Healthians",
@@ -160,7 +160,7 @@
       "ats": "workable",
       "slug": "innovaccer-analytics",
       "status": "ok",
-      "totalOpenRoles": 95,
+      "totalOpenRoles": 100,
       "matched": 54
     },
     {
@@ -353,7 +353,7 @@
       "ats": "greenhouse",
       "slug": "zscaler",
       "status": "ok",
-      "totalOpenRoles": 376,
+      "totalOpenRoles": 377,
       "matched": 0
     }
   ]
