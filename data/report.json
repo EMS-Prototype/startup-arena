@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T03:32:11.355Z",
+  "generatedAt": "2026-11-07T11:23:22.350Z",
   "boardsTried": 46,
   "boardsOk": 31,
   "report": [
@@ -123,7 +123,7 @@
       "slug": "hcltech",
       "status": "ok",
       "totalOpenRoles": 280,
-      "matched": 104
+      "matched": 102
     },
     {
       "company": "Healthians",
@@ -306,7 +306,7 @@
       "ats": "smartrecruiters",
       "slug": "swiggy",
       "status": "ok",
-      "totalOpenRoles": 191,
+      "totalOpenRoles": 190,
       "matched": 5
     },
     {
