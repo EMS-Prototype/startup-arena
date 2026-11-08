@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-07T23:11:34.996Z",
+  "generatedAt": "2026-11-08T03:00:30.013Z",
   "boardsTried": 46,
-  "boardsOk": 30,
+  "boardsOk": 31,
   "report": [
     {
       "company": "Adobe",
@@ -62,7 +62,7 @@
       "ats": "lever",
       "slug": "cred",
       "status": "ok",
-      "totalOpenRoles": 13,
+      "totalOpenRoles": 14,
       "matched": 0
     },
     {
@@ -121,8 +121,9 @@
       "company": "HCLTech",
       "ats": "sfapi",
       "slug": "hcltech",
-      "status": "error",
-      "error": "sfapi Noida: error HTTP 500"
+      "status": "ok",
+      "totalOpenRoles": 283,
+      "matched": 102
     },
     {
       "company": "Healthians",
