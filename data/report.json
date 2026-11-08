@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T11:35:49.900Z",
+  "generatedAt": "2026-11-08T19:13:14.556Z",
   "boardsTried": 46,
   "boardsOk": 31,
   "report": [
@@ -8,8 +8,8 @@
       "ats": "workday",
       "slug": "adobe",
       "status": "ok",
-      "totalOpenRoles": 20,
-      "matched": 20
+      "totalOpenRoles": 19,
+      "matched": 19
     },
     {
       "company": "Atlan",
@@ -122,7 +122,7 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 197,
+      "totalOpenRoles": 276,
       "matched": 102
     },
     {
@@ -353,7 +353,7 @@
       "ats": "greenhouse",
       "slug": "zscaler",
       "status": "ok",
-      "totalOpenRoles": 375,
+      "totalOpenRoles": 376,
       "matched": 0
     }
   ]
