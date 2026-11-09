@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T03:24:21.041Z",
+  "generatedAt": "2026-11-09T13:27:30.862Z",
   "boardsTried": 46,
   "boardsOk": 31,
   "report": [
@@ -85,7 +85,7 @@
       "ats": "smartrecruiters",
       "slug": "freshworks",
       "status": "ok",
-      "totalOpenRoles": 123,
+      "totalOpenRoles": 125,
       "matched": 0
     },
     {
@@ -122,7 +122,7 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 279,
+      "totalOpenRoles": 288,
       "matched": 103
     },
     {
@@ -160,7 +160,7 @@
       "ats": "workable",
       "slug": "innovaccer-analytics",
       "status": "ok",
-      "totalOpenRoles": 100,
+      "totalOpenRoles": 97,
       "matched": 54
     },
     {
@@ -306,7 +306,7 @@
       "ats": "smartrecruiters",
       "slug": "swiggy",
       "status": "ok",
-      "totalOpenRoles": 190,
+      "totalOpenRoles": 191,
       "matched": 5
     },
     {
@@ -353,7 +353,7 @@
       "ats": "greenhouse",
       "slug": "zscaler",
       "status": "ok",
-      "totalOpenRoles": 376,
+      "totalOpenRoles": 375,
       "matched": 0
     }
   ]
