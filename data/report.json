@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T23:38:05.980Z",
+  "generatedAt": "2026-11-10T04:59:14.557Z",
   "boardsTried": 46,
   "boardsOk": 31,
   "report": [
@@ -122,7 +122,7 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 280,
+      "totalOpenRoles": 282,
       "matched": 103
     },
     {
