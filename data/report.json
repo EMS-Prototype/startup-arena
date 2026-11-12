@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T13:24:22.950Z",
+  "generatedAt": "2026-11-12T21:38:11.612Z",
   "boardsTried": 46,
   "boardsOk": 31,
   "report": [
@@ -8,15 +8,15 @@
       "ats": "workday",
       "slug": "adobe",
       "status": "ok",
-      "totalOpenRoles": 20,
-      "matched": 20
+      "totalOpenRoles": 19,
+      "matched": 19
     },
     {
       "company": "Atlan",
       "ats": "ashby",
       "slug": "atlan",
       "status": "ok",
-      "totalOpenRoles": 7,
+      "totalOpenRoles": 8,
       "matched": 0
     },
     {
@@ -85,7 +85,7 @@
       "ats": "smartrecruiters",
       "slug": "freshworks",
       "status": "ok",
-      "totalOpenRoles": 121,
+      "totalOpenRoles": 123,
       "matched": 0
     },
     {
@@ -122,8 +122,8 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 292,
-      "matched": 100
+      "totalOpenRoles": 283,
+      "matched": 99
     },
     {
       "company": "Healthians",
@@ -237,8 +237,8 @@
       "ats": "lever",
       "slug": "paytm",
       "status": "ok",
-      "totalOpenRoles": 202,
-      "matched": 114
+      "totalOpenRoles": 201,
+      "matched": 113
     },
     {
       "company": "Pine Labs",
@@ -306,7 +306,7 @@
       "ats": "smartrecruiters",
       "slug": "swiggy",
       "status": "ok",
-      "totalOpenRoles": 187,
+      "totalOpenRoles": 186,
       "matched": 3
     },
     {
@@ -353,7 +353,7 @@
       "ats": "greenhouse",
       "slug": "zscaler",
       "status": "ok",
-      "totalOpenRoles": 377,
+      "totalOpenRoles": 376,
       "matched": 0
     }
   ]
