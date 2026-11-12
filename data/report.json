@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T21:38:03.217Z",
+  "generatedAt": "2026-11-12T04:41:25.061Z",
   "boardsTried": 46,
   "boardsOk": 31,
   "report": [
@@ -85,7 +85,7 @@
       "ats": "smartrecruiters",
       "slug": "freshworks",
       "status": "ok",
-      "totalOpenRoles": 121,
+      "totalOpenRoles": 122,
       "matched": 0
     },
     {
@@ -122,8 +122,8 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 275,
-      "matched": 98
+      "totalOpenRoles": 279,
+      "matched": 100
     },
     {
       "company": "Healthians",
@@ -353,7 +353,7 @@
       "ats": "greenhouse",
       "slug": "zscaler",
       "status": "ok",
-      "totalOpenRoles": 370,
+      "totalOpenRoles": 374,
       "matched": 0
     }
   ]
