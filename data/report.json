@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T03:53:48.034Z",
+  "generatedAt": "2026-11-13T12:42:31.037Z",
   "boardsTried": 46,
   "boardsOk": 31,
   "report": [
@@ -122,8 +122,8 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 278,
-      "matched": 99
+      "totalOpenRoles": 289,
+      "matched": 100
     },
     {
       "company": "Healthians",
@@ -160,7 +160,7 @@
       "ats": "workable",
       "slug": "innovaccer-analytics",
       "status": "ok",
-      "totalOpenRoles": 100,
+      "totalOpenRoles": 99,
       "matched": 57
     },
     {
@@ -168,7 +168,7 @@
       "ats": "smartrecruiters",
       "slug": "ixigo",
       "status": "ok",
-      "totalOpenRoles": 8,
+      "totalOpenRoles": 9,
       "matched": 0
     },
     {
@@ -190,7 +190,7 @@
       "ats": "lever",
       "slug": "meesho",
       "status": "ok",
-      "totalOpenRoles": 49,
+      "totalOpenRoles": 48,
       "matched": 1
     },
     {
@@ -198,7 +198,7 @@
       "ats": "lever",
       "slug": "mindtickle",
       "status": "ok",
-      "totalOpenRoles": 21,
+      "totalOpenRoles": 20,
       "matched": 0
     },
     {
@@ -237,8 +237,8 @@
       "ats": "lever",
       "slug": "paytm",
       "status": "ok",
-      "totalOpenRoles": 201,
-      "matched": 113
+      "totalOpenRoles": 202,
+      "matched": 114
     },
     {
       "company": "Pine Labs",
@@ -259,7 +259,7 @@
       "ats": "greenhouse",
       "slug": "razorpaysoftwareprivatelimited",
       "status": "ok",
-      "totalOpenRoles": 25,
+      "totalOpenRoles": 26,
       "matched": 0
     },
     {
@@ -283,7 +283,7 @@
       "ats": "greenhouse",
       "slug": "slice",
       "status": "ok",
-      "totalOpenRoles": 22,
+      "totalOpenRoles": 21,
       "matched": 0
     },
     {
@@ -306,7 +306,7 @@
       "ats": "smartrecruiters",
       "slug": "swiggy",
       "status": "ok",
-      "totalOpenRoles": 186,
+      "totalOpenRoles": 187,
       "matched": 3
     },
     {
@@ -345,7 +345,7 @@
       "ats": "lever",
       "slug": "zeta",
       "status": "ok",
-      "totalOpenRoles": 29,
+      "totalOpenRoles": 30,
       "matched": 0
     },
     {
