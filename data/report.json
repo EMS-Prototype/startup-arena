@@ -1,15 +1,14 @@
 {
-  "generatedAt": "2026-11-13T21:03:47.313Z",
+  "generatedAt": "2026-11-14T03:51:52.048Z",
   "boardsTried": 46,
-  "boardsOk": 31,
+  "boardsOk": 28,
   "report": [
     {
       "company": "Adobe",
       "ats": "workday",
       "slug": "adobe",
-      "status": "ok",
-      "totalOpenRoles": 19,
-      "matched": 19
+      "status": "error",
+      "error": "workday Noida: error HTTP 521"
     },
     {
       "company": "Atlan",
@@ -76,16 +75,15 @@
       "company": "Fractal",
       "ats": "workday",
       "slug": "fractal",
-      "status": "ok",
-      "totalOpenRoles": 22,
-      "matched": 17
+      "status": "error",
+      "error": "workday Noida: error HTTP 521"
     },
     {
       "company": "Freshworks",
       "ats": "smartrecruiters",
       "slug": "freshworks",
       "status": "ok",
-      "totalOpenRoles": 121,
+      "totalOpenRoles": 120,
       "matched": 0
     },
     {
@@ -122,7 +120,7 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 284,
+      "totalOpenRoles": 287,
       "matched": 101
     },
     {
@@ -297,9 +295,8 @@
       "company": "Sprinklr",
       "ats": "workday",
       "slug": "sprinklr",
-      "status": "ok",
-      "totalOpenRoles": 0,
-      "matched": 0
+      "status": "error",
+      "error": "workday Noida: error HTTP 521"
     },
     {
       "company": "Swiggy",
@@ -353,7 +350,7 @@
       "ats": "greenhouse",
       "slug": "zscaler",
       "status": "ok",
-      "totalOpenRoles": 374,
+      "totalOpenRoles": 373,
       "matched": 0
     }
   ]
