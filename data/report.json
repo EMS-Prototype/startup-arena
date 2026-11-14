@@ -1,14 +1,15 @@
 {
-  "generatedAt": "2026-11-14T11:50:39.645Z",
+  "generatedAt": "2026-11-14T19:33:08.554Z",
   "boardsTried": 46,
-  "boardsOk": 28,
+  "boardsOk": 31,
   "report": [
     {
       "company": "Adobe",
       "ats": "workday",
       "slug": "adobe",
-      "status": "error",
-      "error": "workday Noida: error Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+      "status": "ok",
+      "totalOpenRoles": 18,
+      "matched": 18
     },
     {
       "company": "Atlan",
@@ -75,8 +76,9 @@
       "company": "Fractal",
       "ats": "workday",
       "slug": "fractal",
-      "status": "error",
-      "error": "workday Noida: error Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+      "status": "ok",
+      "totalOpenRoles": 22,
+      "matched": 17
     },
     {
       "company": "Freshworks",
@@ -120,8 +122,8 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 284,
-      "matched": 98
+      "totalOpenRoles": 281,
+      "matched": 99
     },
     {
       "company": "Healthians",
@@ -257,7 +259,7 @@
       "ats": "greenhouse",
       "slug": "razorpaysoftwareprivatelimited",
       "status": "ok",
-      "totalOpenRoles": 26,
+      "totalOpenRoles": 25,
       "matched": 0
     },
     {
@@ -295,15 +297,16 @@
       "company": "Sprinklr",
       "ats": "workday",
       "slug": "sprinklr",
-      "status": "error",
-      "error": "workday Noida: error Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+      "status": "ok",
+      "totalOpenRoles": 0,
+      "matched": 0
     },
     {
       "company": "Swiggy",
       "ats": "smartrecruiters",
       "slug": "swiggy",
       "status": "ok",
-      "totalOpenRoles": 193,
+      "totalOpenRoles": 192,
       "matched": 3
     },
     {
