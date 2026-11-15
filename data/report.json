@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T12:21:25.328Z",
+  "generatedAt": "2026-11-15T20:00:22.253Z",
   "boardsTried": 46,
   "boardsOk": 31,
   "report": [
@@ -77,8 +77,8 @@
       "ats": "workday",
       "slug": "fractal",
       "status": "ok",
-      "totalOpenRoles": 22,
-      "matched": 17
+      "totalOpenRoles": 21,
+      "matched": 16
     },
     {
       "company": "Freshworks",
@@ -237,8 +237,8 @@
       "ats": "lever",
       "slug": "paytm",
       "status": "ok",
-      "totalOpenRoles": 202,
-      "matched": 114
+      "totalOpenRoles": 204,
+      "matched": 115
     },
     {
       "company": "Pine Labs",
@@ -306,7 +306,7 @@
       "ats": "smartrecruiters",
       "slug": "swiggy",
       "status": "ok",
-      "totalOpenRoles": 192,
+      "totalOpenRoles": 191,
       "matched": 3
     },
     {
