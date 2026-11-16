@@ -1,15 +1,14 @@
 {
-  "generatedAt": "2026-11-16T13:13:57.293Z",
+  "generatedAt": "2026-11-16T23:34:04.898Z",
   "boardsTried": 46,
-  "boardsOk": 27,
+  "boardsOk": 26,
   "report": [
     {
       "company": "Adobe",
       "ats": "workday",
       "slug": "adobe",
-      "status": "ok",
-      "totalOpenRoles": 20,
-      "matched": 19
+      "status": "error",
+      "error": "workday Noida: error HTTP 429"
     },
     {
       "company": "Atlan",
@@ -83,7 +82,7 @@
       "ats": "smartrecruiters",
       "slug": "freshworks",
       "status": "ok",
-      "totalOpenRoles": 120,
+      "totalOpenRoles": 121,
       "matched": 0
     },
     {
@@ -120,7 +119,7 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 286,
+      "totalOpenRoles": 282,
       "matched": 93
     },
     {
@@ -158,7 +157,7 @@
       "ats": "workable",
       "slug": "innovaccer-analytics",
       "status": "ok",
-      "totalOpenRoles": 99,
+      "totalOpenRoles": 96,
       "matched": 57
     },
     {
@@ -235,7 +234,7 @@
       "ats": "lever",
       "slug": "paytm",
       "status": "ok",
-      "totalOpenRoles": 205,
+      "totalOpenRoles": 206,
       "matched": 116
     },
     {
@@ -302,7 +301,7 @@
       "ats": "smartrecruiters",
       "slug": "swiggy",
       "status": "ok",
-      "totalOpenRoles": 190,
+      "totalOpenRoles": 189,
       "matched": 3
     },
     {
@@ -349,7 +348,7 @@
       "ats": "greenhouse",
       "slug": "zscaler",
       "status": "ok",
-      "totalOpenRoles": 377,
+      "totalOpenRoles": 378,
       "matched": 0
     }
   ]
