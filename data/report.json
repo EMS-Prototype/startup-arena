@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T01:55:23.807Z",
+  "generatedAt": "2026-11-18T13:32:29.610Z",
   "boardsTried": 46,
   "boardsOk": 26,
   "report": [
@@ -15,7 +15,7 @@
       "ats": "ashby",
       "slug": "atlan",
       "status": "ok",
-      "totalOpenRoles": 7,
+      "totalOpenRoles": 8,
       "matched": 0
     },
     {
@@ -60,7 +60,7 @@
       "ats": "lever",
       "slug": "cred",
       "status": "ok",
-      "totalOpenRoles": 15,
+      "totalOpenRoles": 13,
       "matched": 0
     },
     {
@@ -82,7 +82,7 @@
       "ats": "smartrecruiters",
       "slug": "freshworks",
       "status": "ok",
-      "totalOpenRoles": 115,
+      "totalOpenRoles": 114,
       "matched": 0
     },
     {
@@ -119,8 +119,8 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 288,
-      "matched": 94
+      "totalOpenRoles": 290,
+      "matched": 90
     },
     {
       "company": "Healthians",
@@ -141,7 +141,7 @@
       "ats": "lever",
       "slug": "hevodata",
       "status": "ok",
-      "totalOpenRoles": 39,
+      "totalOpenRoles": 40,
       "matched": 0
     },
     {
@@ -234,8 +234,8 @@
       "ats": "lever",
       "slug": "paytm",
       "status": "ok",
-      "totalOpenRoles": 200,
-      "matched": 110
+      "totalOpenRoles": 194,
+      "matched": 105
     },
     {
       "company": "Pine Labs",
@@ -256,7 +256,7 @@
       "ats": "greenhouse",
       "slug": "razorpaysoftwareprivatelimited",
       "status": "ok",
-      "totalOpenRoles": 25,
+      "totalOpenRoles": 27,
       "matched": 0
     },
     {
@@ -294,15 +294,15 @@
       "ats": "workday",
       "slug": "sprinklr",
       "status": "error",
-      "error": "workday Jaipur: error HTTP 429"
+      "error": "workday Noida: error HTTP 429"
     },
     {
       "company": "Swiggy",
       "ats": "smartrecruiters",
       "slug": "swiggy",
       "status": "ok",
-      "totalOpenRoles": 192,
-      "matched": 3
+      "totalOpenRoles": 188,
+      "matched": 2
     },
     {
       "company": "Unacademy",
@@ -348,7 +348,7 @@
       "ats": "greenhouse",
       "slug": "zscaler",
       "status": "ok",
-      "totalOpenRoles": 374,
+      "totalOpenRoles": 385,
       "matched": 0
     }
   ]
