@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T18:51:00.745Z",
+  "generatedAt": "2026-11-18T01:55:23.807Z",
   "boardsTried": 46,
   "boardsOk": 26,
   "report": [
@@ -119,8 +119,8 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 292,
-      "matched": 96
+      "totalOpenRoles": 288,
+      "matched": 94
     },
     {
       "company": "Healthians",
@@ -294,7 +294,7 @@
       "ats": "workday",
       "slug": "sprinklr",
       "status": "error",
-      "error": "workday Noida: error HTTP 429"
+      "error": "workday Jaipur: error HTTP 429"
     },
     {
       "company": "Swiggy",
