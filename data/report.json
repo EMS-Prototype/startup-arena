@@ -1,15 +1,14 @@
 {
-  "generatedAt": "2026-11-18T22:25:00.809Z",
+  "generatedAt": "2026-11-19T04:50:23.256Z",
   "boardsTried": 46,
-  "boardsOk": 27,
+  "boardsOk": 26,
   "report": [
     {
       "company": "Adobe",
       "ats": "workday",
       "slug": "adobe",
-      "status": "ok",
-      "totalOpenRoles": 21,
-      "matched": 21
+      "status": "error",
+      "error": "workday Noida: error HTTP 429"
     },
     {
       "company": "Atlan",
@@ -83,7 +82,7 @@
       "ats": "smartrecruiters",
       "slug": "freshworks",
       "status": "ok",
-      "totalOpenRoles": 117,
+      "totalOpenRoles": 118,
       "matched": 0
     },
     {
@@ -121,7 +120,7 @@
       "slug": "hcltech",
       "status": "ok",
       "totalOpenRoles": 292,
-      "matched": 90
+      "matched": 89
     },
     {
       "company": "Healthians",
@@ -295,7 +294,7 @@
       "ats": "workday",
       "slug": "sprinklr",
       "status": "error",
-      "error": "workday Jaipur: error HTTP 429"
+      "error": "workday Noida: error HTTP 429"
     },
     {
       "company": "Swiggy",
@@ -349,7 +348,7 @@
       "ats": "greenhouse",
       "slug": "zscaler",
       "status": "ok",
-      "totalOpenRoles": 384,
+      "totalOpenRoles": 377,
       "matched": 0
     }
   ]
