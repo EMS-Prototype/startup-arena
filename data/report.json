@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T13:59:21.652Z",
+  "generatedAt": "2026-11-19T22:29:51.681Z",
   "boardsTried": 46,
   "boardsOk": 26,
   "report": [
@@ -8,7 +8,7 @@
       "ats": "workday",
       "slug": "adobe",
       "status": "error",
-      "error": "workday Jaipur: error HTTP 429"
+      "error": "workday Noida: error HTTP 429"
     },
     {
       "company": "Atlan",
@@ -60,7 +60,7 @@
       "ats": "lever",
       "slug": "cred",
       "status": "ok",
-      "totalOpenRoles": 13,
+      "totalOpenRoles": 12,
       "matched": 0
     },
     {
@@ -119,8 +119,8 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 295,
-      "matched": 90
+      "totalOpenRoles": 293,
+      "matched": 93
     },
     {
       "company": "Healthians",
@@ -279,7 +279,7 @@
       "ats": "greenhouse",
       "slug": "slice",
       "status": "ok",
-      "totalOpenRoles": 21,
+      "totalOpenRoles": 23,
       "matched": 0
     },
     {
@@ -340,7 +340,7 @@
       "ats": "lever",
       "slug": "zeta",
       "status": "ok",
-      "totalOpenRoles": 31,
+      "totalOpenRoles": 32,
       "matched": 0
     },
     {
