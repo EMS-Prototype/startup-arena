@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T04:40:53.674Z",
+  "generatedAt": "2026-11-20T13:41:23.649Z",
   "boardsTried": 46,
   "boardsOk": 27,
   "report": [
@@ -7,9 +7,8 @@
       "company": "Adobe",
       "ats": "workday",
       "slug": "adobe",
-      "status": "ok",
-      "totalOpenRoles": 22,
-      "matched": 13
+      "status": "error",
+      "error": "workday Noida: error HTTP 429"
     },
     {
       "company": "Atlan",
@@ -61,7 +60,7 @@
       "ats": "lever",
       "slug": "cred",
       "status": "ok",
-      "totalOpenRoles": 12,
+      "totalOpenRoles": 11,
       "matched": 0
     },
     {
@@ -120,8 +119,8 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 293,
-      "matched": 92
+      "totalOpenRoles": 297,
+      "matched": 95
     },
     {
       "company": "Healthians",
@@ -196,7 +195,7 @@
       "ats": "lever",
       "slug": "mindtickle",
       "status": "ok",
-      "totalOpenRoles": 20,
+      "totalOpenRoles": 19,
       "matched": 0
     },
     {
@@ -235,8 +234,8 @@
       "ats": "lever",
       "slug": "paytm",
       "status": "ok",
-      "totalOpenRoles": 197,
-      "matched": 108
+      "totalOpenRoles": 199,
+      "matched": 109
     },
     {
       "company": "Pine Labs",
@@ -257,7 +256,7 @@
       "ats": "greenhouse",
       "slug": "razorpaysoftwareprivatelimited",
       "status": "ok",
-      "totalOpenRoles": 30,
+      "totalOpenRoles": 29,
       "matched": 0
     },
     {
@@ -280,7 +279,7 @@
       "ats": "greenhouse",
       "slug": "slice",
       "status": "ok",
-      "totalOpenRoles": 23,
+      "totalOpenRoles": 22,
       "matched": 0
     },
     {
@@ -294,15 +293,16 @@
       "company": "Sprinklr",
       "ats": "workday",
       "slug": "sprinklr",
-      "status": "error",
-      "error": "workday Noida: error HTTP 429"
+      "status": "ok",
+      "totalOpenRoles": 0,
+      "matched": 0
     },
     {
       "company": "Swiggy",
       "ats": "smartrecruiters",
       "slug": "swiggy",
       "status": "ok",
-      "totalOpenRoles": 180,
+      "totalOpenRoles": 175,
       "matched": 2
     },
     {
@@ -341,7 +341,7 @@
       "ats": "lever",
       "slug": "zeta",
       "status": "ok",
-      "totalOpenRoles": 32,
+      "totalOpenRoles": 33,
       "matched": 0
     },
     {
@@ -349,7 +349,7 @@
       "ats": "greenhouse",
       "slug": "zscaler",
       "status": "ok",
-      "totalOpenRoles": 377,
+      "totalOpenRoles": 378,
       "matched": 0
     }
   ]
