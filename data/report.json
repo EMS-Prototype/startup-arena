@@ -1,14 +1,15 @@
 {
-  "generatedAt": "2026-11-19T22:29:51.681Z",
+  "generatedAt": "2026-11-20T04:40:53.674Z",
   "boardsTried": 46,
-  "boardsOk": 26,
+  "boardsOk": 27,
   "report": [
     {
       "company": "Adobe",
       "ats": "workday",
       "slug": "adobe",
-      "status": "error",
-      "error": "workday Noida: error HTTP 429"
+      "status": "ok",
+      "totalOpenRoles": 22,
+      "matched": 13
     },
     {
       "company": "Atlan",
@@ -120,7 +121,7 @@
       "slug": "hcltech",
       "status": "ok",
       "totalOpenRoles": 293,
-      "matched": 93
+      "matched": 92
     },
     {
       "company": "Healthians",
@@ -165,7 +166,7 @@
       "ats": "smartrecruiters",
       "slug": "ixigo",
       "status": "ok",
-      "totalOpenRoles": 8,
+      "totalOpenRoles": 7,
       "matched": 0
     },
     {
@@ -348,7 +349,7 @@
       "ats": "greenhouse",
       "slug": "zscaler",
       "status": "ok",
-      "totalOpenRoles": 379,
+      "totalOpenRoles": 377,
       "matched": 0
     }
   ]
