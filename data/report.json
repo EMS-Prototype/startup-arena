@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T22:02:06.396Z",
+  "generatedAt": "2026-11-21T04:35:35.439Z",
   "boardsTried": 46,
   "boardsOk": 26,
   "report": [
@@ -119,7 +119,7 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 292,
+      "totalOpenRoles": 295,
       "matched": 98
     },
     {
@@ -157,7 +157,7 @@
       "ats": "workable",
       "slug": "innovaccer-analytics",
       "status": "ok",
-      "totalOpenRoles": 97,
+      "totalOpenRoles": 98,
       "matched": 57
     },
     {
@@ -348,7 +348,7 @@
       "ats": "greenhouse",
       "slug": "zscaler",
       "status": "ok",
-      "totalOpenRoles": 387,
+      "totalOpenRoles": 386,
       "matched": 0
     }
   ]
