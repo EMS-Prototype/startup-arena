@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T04:35:35.439Z",
+  "generatedAt": "2026-11-21T13:07:35.541Z",
   "boardsTried": 46,
   "boardsOk": 26,
   "report": [
@@ -119,7 +119,7 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 295,
+      "totalOpenRoles": 298,
       "matched": 98
     },
     {
@@ -271,7 +271,7 @@
       "ats": "ashby",
       "slug": "sarvam",
       "status": "ok",
-      "totalOpenRoles": 43,
+      "totalOpenRoles": 42,
       "matched": 0
     },
     {
@@ -301,7 +301,7 @@
       "ats": "smartrecruiters",
       "slug": "swiggy",
       "status": "ok",
-      "totalOpenRoles": 174,
+      "totalOpenRoles": 173,
       "matched": 2
     },
     {
