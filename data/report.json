@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T12:55:13.635Z",
+  "generatedAt": "2026-11-22T20:52:20.441Z",
   "boardsTried": 46,
   "boardsOk": 26,
   "report": [
@@ -119,7 +119,7 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 295,
+      "totalOpenRoles": 294,
       "matched": 99
     },
     {
@@ -301,7 +301,7 @@
       "ats": "smartrecruiters",
       "slug": "swiggy",
       "status": "ok",
-      "totalOpenRoles": 175,
+      "totalOpenRoles": 174,
       "matched": 2
     },
     {
