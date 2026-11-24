@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T04:29:13.633Z",
+  "generatedAt": "2026-11-24T15:24:04.252Z",
   "boardsTried": 46,
   "boardsOk": 26,
   "report": [
@@ -60,7 +60,7 @@
       "ats": "lever",
       "slug": "cred",
       "status": "ok",
-      "totalOpenRoles": 12,
+      "totalOpenRoles": 11,
       "matched": 0
     },
     {
@@ -119,8 +119,8 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 298,
-      "matched": 96
+      "totalOpenRoles": 297,
+      "matched": 94
     },
     {
       "company": "Healthians",
@@ -195,7 +195,7 @@
       "ats": "lever",
       "slug": "mindtickle",
       "status": "ok",
-      "totalOpenRoles": 19,
+      "totalOpenRoles": 20,
       "matched": 0
     },
     {
@@ -234,7 +234,7 @@
       "ats": "lever",
       "slug": "paytm",
       "status": "ok",
-      "totalOpenRoles": 190,
+      "totalOpenRoles": 189,
       "matched": 104
     },
     {
@@ -256,7 +256,7 @@
       "ats": "greenhouse",
       "slug": "razorpaysoftwareprivatelimited",
       "status": "ok",
-      "totalOpenRoles": 29,
+      "totalOpenRoles": 23,
       "matched": 0
     },
     {
@@ -271,7 +271,7 @@
       "ats": "ashby",
       "slug": "sarvam",
       "status": "ok",
-      "totalOpenRoles": 42,
+      "totalOpenRoles": 39,
       "matched": 0
     },
     {
@@ -294,14 +294,14 @@
       "ats": "workday",
       "slug": "sprinklr",
       "status": "error",
-      "error": "workday Noida: error HTTP 429"
+      "error": "workday Jaipur: error HTTP 429"
     },
     {
       "company": "Swiggy",
       "ats": "smartrecruiters",
       "slug": "swiggy",
       "status": "ok",
-      "totalOpenRoles": 150,
+      "totalOpenRoles": 153,
       "matched": 2
     },
     {
@@ -348,7 +348,7 @@
       "ats": "greenhouse",
       "slug": "zscaler",
       "status": "ok",
-      "totalOpenRoles": 387,
+      "totalOpenRoles": 385,
       "matched": 0
     }
   ]
