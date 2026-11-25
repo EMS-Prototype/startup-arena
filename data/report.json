@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-25T03:13:53.883Z",
+  "generatedAt": "2026-11-25T15:05:16.515Z",
   "boardsTried": 46,
-  "boardsOk": 27,
+  "boardsOk": 26,
   "report": [
     {
       "company": "Adobe",
@@ -22,9 +22,8 @@
       "company": "BrowserStack",
       "ats": "workday",
       "slug": "browserstack",
-      "status": "ok",
-      "totalOpenRoles": 0,
-      "matched": 0
+      "status": "error",
+      "error": "workday Noida: error HTTP 429"
     },
     {
       "company": "Cars24",
@@ -83,7 +82,7 @@
       "ats": "smartrecruiters",
       "slug": "freshworks",
       "status": "ok",
-      "totalOpenRoles": 121,
+      "totalOpenRoles": 120,
       "matched": 0
     },
     {
@@ -105,7 +104,7 @@
       "ats": "greenhouse",
       "slug": "groww",
       "status": "ok",
-      "totalOpenRoles": 7,
+      "totalOpenRoles": 8,
       "matched": 0
     },
     {
@@ -120,8 +119,8 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 294,
-      "matched": 94
+      "totalOpenRoles": 289,
+      "matched": 86
     },
     {
       "company": "Healthians",
@@ -142,7 +141,7 @@
       "ats": "lever",
       "slug": "hevodata",
       "status": "ok",
-      "totalOpenRoles": 40,
+      "totalOpenRoles": 41,
       "matched": 0
     },
     {
@@ -158,15 +157,15 @@
       "ats": "workable",
       "slug": "innovaccer-analytics",
       "status": "ok",
-      "totalOpenRoles": 98,
-      "matched": 56
+      "totalOpenRoles": 101,
+      "matched": 59
     },
     {
       "company": "Ixigo",
       "ats": "smartrecruiters",
       "slug": "ixigo",
       "status": "ok",
-      "totalOpenRoles": 7,
+      "totalOpenRoles": 8,
       "matched": 0
     },
     {
@@ -219,7 +218,7 @@
       "ats": "ashby",
       "slug": "navi",
       "status": "ok",
-      "totalOpenRoles": 2,
+      "totalOpenRoles": 4,
       "matched": 0
     },
     {
@@ -235,8 +234,8 @@
       "ats": "lever",
       "slug": "paytm",
       "status": "ok",
-      "totalOpenRoles": 189,
-      "matched": 104
+      "totalOpenRoles": 192,
+      "matched": 106
     },
     {
       "company": "Pine Labs",
@@ -257,7 +256,7 @@
       "ats": "greenhouse",
       "slug": "razorpaysoftwareprivatelimited",
       "status": "ok",
-      "totalOpenRoles": 23,
+      "totalOpenRoles": 24,
       "matched": 0
     },
     {
@@ -265,7 +264,7 @@
       "ats": "workday",
       "slug": "samsung",
       "status": "error",
-      "error": "workday Noida: error HTTP 429"
+      "error": "workday Jaipur: error HTTP 429"
     },
     {
       "company": "Sarvam AI",
@@ -302,7 +301,7 @@
       "ats": "smartrecruiters",
       "slug": "swiggy",
       "status": "ok",
-      "totalOpenRoles": 149,
+      "totalOpenRoles": 153,
       "matched": 2
     },
     {
@@ -341,7 +340,7 @@
       "ats": "lever",
       "slug": "zeta",
       "status": "ok",
-      "totalOpenRoles": 33,
+      "totalOpenRoles": 37,
       "matched": 0
     },
     {
@@ -349,7 +348,7 @@
       "ats": "greenhouse",
       "slug": "zscaler",
       "status": "ok",
-      "totalOpenRoles": 392,
+      "totalOpenRoles": 397,
       "matched": 0
     }
   ]
