@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T15:05:16.515Z",
+  "generatedAt": "2026-11-26T02:31:38.664Z",
   "boardsTried": 46,
   "boardsOk": 26,
   "report": [
@@ -119,8 +119,8 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 289,
-      "matched": 86
+      "totalOpenRoles": 288,
+      "matched": 85
     },
     {
       "company": "Healthians",
@@ -157,7 +157,7 @@
       "ats": "workable",
       "slug": "innovaccer-analytics",
       "status": "ok",
-      "totalOpenRoles": 101,
+      "totalOpenRoles": 95,
       "matched": 59
     },
     {
@@ -264,7 +264,7 @@
       "ats": "workday",
       "slug": "samsung",
       "status": "error",
-      "error": "workday Jaipur: error HTTP 429"
+      "error": "workday Noida: error HTTP 429"
     },
     {
       "company": "Sarvam AI",
@@ -348,7 +348,7 @@
       "ats": "greenhouse",
       "slug": "zscaler",
       "status": "ok",
-      "totalOpenRoles": 397,
+      "totalOpenRoles": 390,
       "matched": 0
     }
   ]
