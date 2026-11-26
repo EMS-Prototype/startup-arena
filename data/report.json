@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T02:31:38.664Z",
+  "generatedAt": "2026-11-26T14:34:25.283Z",
   "boardsTried": 46,
   "boardsOk": 26,
   "report": [
@@ -15,7 +15,7 @@
       "ats": "ashby",
       "slug": "atlan",
       "status": "ok",
-      "totalOpenRoles": 7,
+      "totalOpenRoles": 8,
       "matched": 0
     },
     {
@@ -60,7 +60,7 @@
       "ats": "lever",
       "slug": "cred",
       "status": "ok",
-      "totalOpenRoles": 11,
+      "totalOpenRoles": 10,
       "matched": 0
     },
     {
@@ -104,7 +104,7 @@
       "ats": "greenhouse",
       "slug": "groww",
       "status": "ok",
-      "totalOpenRoles": 8,
+      "totalOpenRoles": 9,
       "matched": 0
     },
     {
@@ -119,8 +119,8 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 288,
-      "matched": 85
+      "totalOpenRoles": 295,
+      "matched": 87
     },
     {
       "company": "Healthians",
@@ -141,7 +141,7 @@
       "ats": "lever",
       "slug": "hevodata",
       "status": "ok",
-      "totalOpenRoles": 41,
+      "totalOpenRoles": 42,
       "matched": 0
     },
     {
@@ -157,8 +157,8 @@
       "ats": "workable",
       "slug": "innovaccer-analytics",
       "status": "ok",
-      "totalOpenRoles": 95,
-      "matched": 59
+      "totalOpenRoles": 94,
+      "matched": 58
     },
     {
       "company": "Ixigo",
@@ -187,7 +187,7 @@
       "ats": "lever",
       "slug": "meesho",
       "status": "ok",
-      "totalOpenRoles": 48,
+      "totalOpenRoles": 50,
       "matched": 0
     },
     {
@@ -195,7 +195,7 @@
       "ats": "lever",
       "slug": "mindtickle",
       "status": "ok",
-      "totalOpenRoles": 20,
+      "totalOpenRoles": 17,
       "matched": 0
     },
     {
@@ -234,8 +234,8 @@
       "ats": "lever",
       "slug": "paytm",
       "status": "ok",
-      "totalOpenRoles": 192,
-      "matched": 106
+      "totalOpenRoles": 197,
+      "matched": 111
     },
     {
       "company": "Pine Labs",
@@ -256,7 +256,7 @@
       "ats": "greenhouse",
       "slug": "razorpaysoftwareprivatelimited",
       "status": "ok",
-      "totalOpenRoles": 24,
+      "totalOpenRoles": 25,
       "matched": 0
     },
     {
@@ -271,7 +271,7 @@
       "ats": "ashby",
       "slug": "sarvam",
       "status": "ok",
-      "totalOpenRoles": 39,
+      "totalOpenRoles": 38,
       "matched": 0
     },
     {
@@ -301,7 +301,7 @@
       "ats": "smartrecruiters",
       "slug": "swiggy",
       "status": "ok",
-      "totalOpenRoles": 153,
+      "totalOpenRoles": 150,
       "matched": 2
     },
     {
@@ -340,7 +340,7 @@
       "ats": "lever",
       "slug": "zeta",
       "status": "ok",
-      "totalOpenRoles": 37,
+      "totalOpenRoles": 38,
       "matched": 0
     },
     {
@@ -348,7 +348,7 @@
       "ats": "greenhouse",
       "slug": "zscaler",
       "status": "ok",
-      "totalOpenRoles": 390,
+      "totalOpenRoles": 389,
       "matched": 0
     }
   ]
