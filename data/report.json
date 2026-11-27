@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-27T05:40:04.907Z",
+  "generatedAt": "2026-11-27T19:13:33.711Z",
   "boardsTried": 46,
-  "boardsOk": 26,
+  "boardsOk": 28,
   "report": [
     {
       "company": "Adobe",
@@ -74,8 +74,9 @@
       "company": "Fractal",
       "ats": "workday",
       "slug": "fractal",
-      "status": "error",
-      "error": "workday Noida: error HTTP 429"
+      "status": "ok",
+      "totalOpenRoles": 22,
+      "matched": 3
     },
     {
       "company": "Freshworks",
@@ -119,7 +120,7 @@
       "ats": "sfapi",
       "slug": "hcltech",
       "status": "ok",
-      "totalOpenRoles": 297,
+      "totalOpenRoles": 295,
       "matched": 88
     },
     {
@@ -187,7 +188,7 @@
       "ats": "lever",
       "slug": "meesho",
       "status": "ok",
-      "totalOpenRoles": 60,
+      "totalOpenRoles": 63,
       "matched": 0
     },
     {
@@ -234,8 +235,8 @@
       "ats": "lever",
       "slug": "paytm",
       "status": "ok",
-      "totalOpenRoles": 197,
-      "matched": 111
+      "totalOpenRoles": 198,
+      "matched": 112
     },
     {
       "company": "Pine Labs",
@@ -271,7 +272,7 @@
       "ats": "ashby",
       "slug": "sarvam",
       "status": "ok",
-      "totalOpenRoles": 38,
+      "totalOpenRoles": 35,
       "matched": 0
     },
     {
@@ -279,7 +280,7 @@
       "ats": "greenhouse",
       "slug": "slice",
       "status": "ok",
-      "totalOpenRoles": 23,
+      "totalOpenRoles": 20,
       "matched": 0
     },
     {
@@ -293,15 +294,16 @@
       "company": "Sprinklr",
       "ats": "workday",
       "slug": "sprinklr",
-      "status": "error",
-      "error": "workday Noida: error HTTP 429"
+      "status": "ok",
+      "totalOpenRoles": 0,
+      "matched": 0
     },
     {
       "company": "Swiggy",
       "ats": "smartrecruiters",
       "slug": "swiggy",
       "status": "ok",
-      "totalOpenRoles": 150,
+      "totalOpenRoles": 152,
       "matched": 2
     },
     {
@@ -348,7 +350,7 @@
       "ats": "greenhouse",
       "slug": "zscaler",
       "status": "ok",
-      "totalOpenRoles": 388,
+      "totalOpenRoles": 386,
       "matched": 0
     }
   ]
