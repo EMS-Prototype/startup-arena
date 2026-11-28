@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T02:19:03.433Z",
+  "generatedAt": "2026-11-28T13:44:59.946Z",
   "boardsTried": 46,
   "boardsOk": 26,
   "report": [
@@ -120,7 +120,7 @@
       "slug": "hcltech",
       "status": "ok",
       "totalOpenRoles": 297,
-      "matched": 87
+      "matched": 88
     },
     {
       "company": "Healthians",
